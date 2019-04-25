@@ -1,4 +1,5 @@
-# pandas_essentials
+# pandas essentials
+many lifted from https://github.com/guipsamora/pandas_exercises
 
 eda: some basics on how to get a feel for a dataset and do some essential data wrangling. looks at basic dataframe layout, summarizing, sorting, filtering, and accessing specific parts of the dataframe.
 
