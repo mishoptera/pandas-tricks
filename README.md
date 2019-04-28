@@ -15,3 +15,8 @@ many lifted from https://github.com/guipsamora/pandas_exercises
 - resample function
 - idxmax function
 - merge (append)
+- create random number series
+
+**viz**: data visualizations.
+- matplotlib intro
+- histograms
