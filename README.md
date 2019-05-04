@@ -7,6 +7,7 @@ many lifted from https://github.com/guipsamora/pandas_exercises
 - sort
 - filter
 - access specific parts of the dataframe
+- rounding up trick (probably shouldn't be here)
 
 **apply**: cool functions. 
 - build simple lamba functions (and slightly more complex ones)
